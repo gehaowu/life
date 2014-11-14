@@ -14,7 +14,7 @@ tags:
 - 工具
 ---
 之前用的知乎日报 RSS 是别人的，但是最近不工作了，所以只能自己动手折腾一个。 
-[![知乎日报](http://ww3.sinaimg.cn/large/c74746f0gw1ei8pvavboij20r808cmz2.jpg)](http://ww3.sinaimg.cn/bmiddle/c74746f0gw1ei8pvavboij20r808cmz2.jpg)
+[![知乎日报](https://dn-mtimg.qbox.me/large/c74746f0gw1ei8pvavboij20r808cmz2.jpg)](https://dn-mtimg.qbox.me/bmiddle/c74746f0gw1ei8pvavboij20r808cmz2.jpg)
 
 <!-- more -->
 用 Fiddler 抓包，然后 Python 模拟安卓客户端获取内容，用模板渲染一次，加上缓存就 OK 了。不过知乎日报的的API太简陋，不输出更新时间和作者，让人感觉很不舒服。而且有的文章还是站外的，只能去输出一个链接了。首页 14 分钟更新一次，分类的缓存有效期 30 分钟，超过 30 分钟访问时会刷新一次。

@@ -20,7 +20,7 @@ tags:
 第一次在Github上边提交  Requests，想想还有点小激动。和自己写的小程序第一次收到 Requests 一样。
 
 最后是下载地址：
-<iframe src="http://lab.lepture.com/github-cards/card.html?user=ccbikai&amp;repo=readerself" frameborder="0" scrolling="0" width="400" height="200" allowtransparency=""></iframe>
+<iframe src="http://lab.lepture.com/github-cards/cards/medium.html?user=ccbikai&amp;repo=readerself" frameborder="0" scrolling="0" width="400" height="300" allowtransparency></iframe>
 
 ---
 折腾了一个 HTML5 虾米音乐播放器，等我找不到Bug后，写使用方法，目前我博客已经在使用了。

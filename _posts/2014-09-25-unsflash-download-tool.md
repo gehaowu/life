@@ -22,4 +22,4 @@ tags:
 
 运行`python unsplash.py`，然后输入最小页数和最大页数即可下载到脚本所在目录的 unsplash 文件夹中。
 
-<iframe width="100%" height="300" src="https://gist.github.com/ccbikai/5bac77d4b97d66aac795.pibb" frameborder="0"></iframe>
+<iframe width="100%" height="300" src="http://www.miantiao.me/gist/ccbikai/5bac77d4b97d66aac795.pibb" frameborder="0"></iframe>

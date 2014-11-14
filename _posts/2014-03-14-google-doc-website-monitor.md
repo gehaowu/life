@@ -16,16 +16,16 @@ tags:
 
 <!-- more -->
 原本是英文的，顺便汉化了一下，给比我英语还差的人，首先你需要给我的 [网站监控](https://docs.google.com/spreadsheet/ccc?key=0Am75G25Lf4GOdFZWZ1NKamM0U1lCSWxZdG1KalVsVkE&usp=drive_web#gid=0) 文档创建一个副本。
-[![创建副本](http://ww2.sinaimg.cn/bmiddle/793f2bffgw1eeffyrkupfj20ct078q3c.jpg)](http://ww2.sinaimg.cn/large/793f2bffgw1eeffyrkupfj20ct078q3c.jpg)
+[![创建副本](https://dn-mtimg.qbox.me/bmiddle/793f2bffgw1eeffyrkupfj20ct078q3c.jpg)](https://dn-mtimg.qbox.me/large/793f2bffgw1eeffyrkupfj20ct078q3c.jpg)
 
 然后在你创建的副本中配置里边的选项，多个网址需要用**英文逗号**隔开，邮箱填一个你的。  就这么简单，配置完毕。  
-[![配置](http://ww1.sinaimg.cn/bmiddle/793f2bffgw1eefg27ic1fj20dk078aam.jpg)](http://ww1.sinaimg.cn/large/793f2bffgw1eefg27ic1fj20dk078aam.jpg)
+[![配置](https://dn-mtimg.qbox.me/bmiddle/793f2bffgw1eefg27ic1fj20dk078aam.jpg)](https://dn-mtimg.qbox.me/large/793f2bffgw1eefg27ic1fj20dk078aam.jpg)
 
 然后开始“安装”，点击菜单栏**网站监控**，进行第一步，需要谷歌授权，在弹出小窗口里边确定。然后第二步，点击开始监控。  现在程序就开始工作了，如果网站宕机，就会用你的谷歌邮箱发邮件到你设置的邮箱提醒。短信通知我正在测试中。
 短信现在也能通知了，需要谷歌绑定手机号。
-[![短信](http://ww4.sinaimg.cn/bmiddle/6257acd7gw1eepixkyn3qj20f00qodi6.jpg)](http://ww4.sinaimg.cn/large/6257acd7gw1eepixkyn3qj20f00qodi6.jpg)
+[![短信](https://dn-mtimg.qbox.me/bmiddle/6257acd7gw1eepixkyn3qj20f00qodi6.jpg)](https://dn-mtimg.qbox.me/large/6257acd7gw1eepixkyn3qj20f00qodi6.jpg)
 
 故意弄了一个宕机，测试一下邮件通知。
-[![通知](http://ww2.sinaimg.cn/bmiddle/793f2bffgw1eefg658l8tj209c04bglu.jpg)](http://ww2.sinaimg.cn/large/793f2bffgw1eefg658l8tj209c04bglu.jpg)
+[![通知](https://dn-mtimg.qbox.me/bmiddle/793f2bffgw1eefg658l8tj209c04bglu.jpg)](https://dn-mtimg.qbox.me/large/793f2bffgw1eefg658l8tj209c04bglu.jpg)
 
 原作者地址：http://www.labnol.org/internet/website-uptime-monitor/21060/

@@ -19,10 +19,10 @@ Swiftype 基本使用很简单，注册，添加你的网站，它会自动搜�
 
 官网：https://swiftype.com
 
-[![安装](http://ww3.sinaimg.cn/bmiddle/4eda25f5tw1ei9yflb1vdj20li0g9n05.jpg)](http://ww3.sinaimg.cn/large/4eda25f5tw1ei9yflb1vdj20li0g9n05.jpg)
+[![安装](https://dn-mtimg.qbox.me/bmiddle/4eda25f5tw1ei9yflb1vdj20li0g9n05.jpg)](https://dn-mtimg.qbox.me/large/4eda25f5tw1ei9yflb1vdj20li0g9n05.jpg)
 
 Swiftype 不仅支持自定义搜索，还开放API，这样通过简单调用我的微信公众号 “吃面条么” 就可以搜索我博客的文章了，以前羡慕WordPress可以做到，现在各种网站都可以了。扫码可以关注我微信噢。
 
-[![二维码](http://ww1.sinaimg.cn/bmiddle/4eda25f5tw1ei9ye9xt1hj20zk0zkadw.jpg)](http://ww1.sinaimg.cn/large/4eda25f5tw1ei9ye9xt1hj20zk0zkadw.jpg)
+[![二维码](https://dn-mtimg.qbox.me/bmiddle/4eda25f5tw1ei9ye9xt1hj20zk0zkadw.jpg)](https://dn-mtimg.qbox.me/large/4eda25f5tw1ei9ye9xt1hj20zk0zkadw.jpg)
 
 Swiftype 的基本使用就这么多，以后要是遇到啥好玩的，我还会继续介绍。

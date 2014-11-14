@@ -16,7 +16,7 @@ tags:
 
 <!-- more -->
 其实这个程序主要是需要一个好的图片源，我现在找到图片源还算可以，速度也很快（图片在[七牛]()，肯定快）。目前支持"people","car","digital","fashion","food","pet","toy","city"八个分类，如果不在意分类的话，可以使用"Any"分类。大小可以使用"300x200"这个格式，也可以只限制宽度，设置"300",就可以了。更多尺寸参数和七牛一样的，见下图：  
-[![图片尺寸](http://ww3.sinaimg.cn/large/005ygACVjw1eg9dh5hm83j30e00lb41c.jpg)](http://www.miantiao.me/url/1j60QH4)
+[![图片尺寸](https://dn-mtimg.qbox.me/large/005ygACVjw1eg9dh5hm83j30e00lb41c.jpg)](http://www.miantiao.me/url/1j60QH4)
 
 地址格式：http://randomimg.jd-app.com/分类/尺寸
 

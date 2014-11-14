@@ -18,7 +18,7 @@ tags:
 需要的马上去部署，暂时没有女神的，先Star一下，然后去找女神。
 
 全自动点赞版本：[https://github.com/ccbikai/likefordear/releases/tag/v0.1](http://www.miantiao.me/url/1nF0iaM)
-<iframe src="http://lab.lepture.com/github-cards/card.html?user=ccbikai&repo=likefordear" frameborder="0" scrolling="0" width="400" height="200" allowtransparency></iframe>
+<iframe src="http://lab.lepture.com/github-cards/cards/medium.html?user=ccbikai&repo=likefordear" frameborder="0" scrolling="0" width="400" height="300" allowtransparency></iframe>
 
 这是一个自动给女神微博点赞的脚本，三分钟检查一次女神微博更新，如果有新微博，就立马点赞。(全自动版)  
 如果女神发了悲伤的微博，攒了就惨了，所以有了半自动版。半自动版：如果有新微博，邮件通知，邮件里边包含**一键点赞**链接。然后自己判断

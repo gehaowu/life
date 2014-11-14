@@ -28,10 +28,10 @@ tags:
 
 ###WordPress使用方法：  
 直接在functions.php插入下面的代码：  
-<iframe width="100%" height="200" src="https://gist.github.com/ccbikai/00f810676207184a634e.pibb" frameborder=0 ></iframe>
+<iframe width="100%" height="200" src="http://www.miantiao.me/gist/ccbikai/00f810676207184a634e.pibb" frameborder=0 ></iframe>
 
 然后单独在把虾米音乐地址写在一行就行了。
-[![WordPress](http://ww1.sinaimg.cn/bmiddle/4eda25f5gw1ehccuhndl4j20fw061js6.jpg)](http://ww1.sinaimg.cn/large/4eda25f5gw1ehccuhndl4j20fw061js6.jpg)  
+[![WordPress](https://dn-mtimg.qbox.me/bmiddle/4eda25f5gw1ehccuhndl4j20fw061js6.jpg)](https://dn-mtimg.qbox.me/large/4eda25f5gw1ehccuhndl4j20fw061js6.jpg)  
 效果演示：  
 [WordPress效果演示](http://www.miantiao.me/url/1io4A1V)  
 
@@ -39,4 +39,4 @@ tags:
 <iframe id="xiamiflash" src="" frameborder="0" scrolling="0" width="430" height="0" allowtransparency></iframe>
 
 代码已经开源的，有问题欢迎帮我解决。  
-<iframe src="http://lab.lepture.com/github-cards/card.html?user=ccbikai&repo=musicplayer" frameborder="0" scrolling="0" width="400" height="200" allowtransparency></iframe>
+<iframe src="http://lab.lepture.com/github-cards/cards/medium.html?user=ccbikai&repo=musicplayer" frameborder="0" scrolling="0" width="400" height="300" allowtransparency></iframe>

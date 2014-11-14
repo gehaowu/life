@@ -20,14 +20,14 @@ tags:
 文件共享搞好了，就做离线下载，这样电脑可以直接读取路由器下载的电影，手机也可以直接读取，减少复制和存储空间（U盘存储不够，你可以用挂载移动硬盘）。离线下载主要依靠的是aria2,openwrt路由器已经有编译好的软件包，你可以直接在软件管理的地方安装(或者`opkg install aria2`),安装好了需要给它设置配置文件（我在下面贴出来），用 `aria2c --conf-path=/root/aria2.conf` 命令启动它，如果不出错，就可以用web管理面版给它添加东西了，下载[这里](http://pan.baidu.com/share/link?shareid=65077310&uk=2617666054) 的压缩包，解压放在/www目录，然后访问http://192.168.1.1/yaaw 或者http://192.168.1.1/xunlei ，添加下载文件。  
 
 aria2配置文件，放在/root目录，里边的路径修改一下对应你的。  如果需要开机自启动在 系统》启动项添加 `aria2c --conf-path=/root/aria2.conf -D`命令。  
-<iframe width="100%" height="300" src="https://gist.github.com/ccbikai/6037312.pibb" frameborder=0 ></iframe>   
+<iframe width="100%" height="300" src="http://www.miantiao.me/gist/ccbikai/6037312.pibb" frameborder=0 ></iframe>   
 
 如果你要用迅雷离线，或者旋风离线，需要给浏览器安装油猴子js脚本，迅雷旋风二合一（http://userscripts.org/scripts/source/153927.user.js）。安装好以后，设置一下rpc路径，和yaaw设置里边的一致就可以一键添加下载了。旋风是rpc导出，迅雷是批量导出。
-[![旋风设置](http://ww3.sinaimg.cn/large/4eda25f5gw1e6s6c1y4zfj20er076aaj.jpg)](http://ww3.sinaimg.cn/large/4eda25f5gw1e6s6c1y4zfj20er076aaj.jpg)  
-[![迅雷设置](http://ww3.sinaimg.cn/large/4eda25f5gw1e6s6ch2hm8j20hz0drgmj.jpg)](http://ww3.sinaimg.cn/large/4eda25f5gw1e6s6ch2hm8j20hz0drgmj.jpg)  
+[![旋风设置](https://dn-mtimg.qbox.me/large/4eda25f5gw1e6s6c1y4zfj20er076aaj.jpg)](https://dn-mtimg.qbox.me/large/4eda25f5gw1e6s6c1y4zfj20er076aaj.jpg)  
+[![迅雷设置](https://dn-mtimg.qbox.me/large/4eda25f5gw1e6s6ch2hm8j20hz0drgmj.jpg)](https://dn-mtimg.qbox.me/large/4eda25f5gw1e6s6ch2hm8j20hz0drgmj.jpg)  
 
 离线下载设置好了，但你有时在外边，就需要远程控制了，但是每次拨号路由器的ip都是变化的，很多人用的是花生壳，我是用dnspd解析的，下面是我用的脚本。  
-<iframe width="100%" height="300" src="https://gist.github.com/ccbikai/6037342.pibb" frameborder=0 ></iframe> 
+<iframe width="100%" height="300" src="http://www.miantiao.me/gist/ccbikai/6037342.pibb" frameborder=0 ></iframe> 
 保存为php文件，放在外网可以访问的支持curl的php空间，然后打开"/usr/lib/ddns/services"文件，如果你找不到那就是路由器安装ddns，在软件管理那里安装一下。在"/usr/lib/ddns/services"里边添加 `"dnspod.com" "http://api.inbiji.com/dnspod/dnspodupdate.php?username=[USERNAME]&password=[PASSWORD]&domain=[DOMAIN]&myip=[IP]"`，如果你没有空间，可以直接用我的接口，不会记录密码。  
 
 然后在路由器设置页面 服务->动态DNS->添加一条记录，这里服务里现在会出现dnspod.com选项，主机名:二级域名@顶级域名(比如你的二级域名是openwrt.xxx.com,那么该处就填写openwrt@xxx.com)，用户名:就是你的dnspod账户，密码  :就是你的dnspod密码，网络  :选wan，"保存并应用",最好开启定时更新,间隔时间不要太短,10分钟就好。  

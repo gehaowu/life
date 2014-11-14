@@ -32,4 +32,4 @@ tags:
 
 然后等待了几天就收到了godaddy的退款。
 
-[![alipay](http://ww4.sinaimg.cn/mw690/4eda25f5tw1e72n1atnejj20rs0840u2.jpg)](http://ww4.sinaimg.cn/large/4eda25f5tw1e72n1atnejj20rs0840u2.jpg)
+[![alipay](https://dn-mtimg.qbox.me/mw690/4eda25f5tw1e72n1atnejj20rs0840u2.jpg)](https://dn-mtimg.qbox.me/large/4eda25f5tw1e72n1atnejj20rs0840u2.jpg)

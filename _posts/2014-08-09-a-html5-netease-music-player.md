@@ -27,12 +27,12 @@ tags:
 
 ###WordPress使用方法：  
 直接在functions.php插入下面的代码：  
-<iframe width="100%" height="200" src="https://gist.github.com/ccbikai/6b85829db7749cc196ab.pibb" frameborder=0 ></iframe>
+<iframe width="100%" height="200" src="http://www.miantiao.me/gist/ccbikai/6b85829db7749cc196ab.pibb" frameborder=0 ></iframe>
 
 然后单独在把虾米音乐地址写在一行就行了。
 
 嗯，代码也是开源的，有问题欢迎帮我解决。  
-<iframe src="http://lab.lepture.com/github-cards/card.html?user=ccbikai&repo=musicplayer" frameborder="0" scrolling="0" width="400" height="200" allowtransparency></iframe>
+<iframe src="http://lab.lepture.com/github-cards/cards/medium.html?user=ccbikai&repo=musicplayer" frameborder="0" scrolling="0" width="400" height="300" allowtransparency></iframe>
 
 
 
