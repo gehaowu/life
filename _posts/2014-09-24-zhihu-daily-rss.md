@@ -33,4 +33,4 @@ tags:
 “大公司日报” 的 RSS 为 http://zhihurss.coding.io/daily/id/5  
 “互联网安全” 的 RSS 为 http://zhihurss.coding.io/daily/id/10 
 
-其他日报的RSS请访问 [http://zhihurss.coding.io/theme](http://www.miantiao.me/url/zhihurss) 。
+其他日报的RSS请访问 http://zhihurss.coding.io/theme 。

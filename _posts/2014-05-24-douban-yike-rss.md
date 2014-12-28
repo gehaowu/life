@@ -35,4 +35,4 @@ tags:
 “打鸡血”栏目的 RSS 为 http://yikerss.coding.io/rss/id/26 .   
 “热门精选”栏目的 RSS 为 http://yikerss.coding.io/rss/id/48 .
 
-其他栏目 RSS 请访问 [http://www.miantiao.me/url/yikeid](http://www.miantiao.me/url/yikeid)  查看。
+其他栏目 RSS 请访问 http://yikerss.coding.io/id  查看。
