@@ -31,6 +31,25 @@ tags:
 “电子音乐” 的 RSS 为 http://zhihurss.miantiao.me/daily/id/7  
 “不许无聊” 的 RSS 为 http://zhihurss.miantiao.me/daily/id/11  
 “大公司日报” 的 RSS 为 http://zhihurss.miantiao.me/daily/id/5  
-“互联网安全” 的 RSS 为 http://zhihurss.miantiao.me/daily/id/10 
+“互联网安全” 的 RSS 为 http://zhihurss.miantiao.me/daily/id/10  
 
 其他日报的RSS请访问 http://zhihurss.miantiao.me/theme 。
+
+合集RSS：  
+“深夜食堂”的 RSS 为：http://zhihurss.miantiao.me/section/id/1  
+“瞎扯”的 RSS 为：http://zhihurss.miantiao.me/section/id/2  
+“吃很重要”的 RSS 为：http://zhihurss.miantiao.me/section/id/3  
+“知天下”的 RSS 为：http://zhihurss.miantiao.me/section/id/5  
+“苗炜专栏”的 RSS 为：http://zhihurss.miantiao.me/section/id/6  
+“小道消息”的 RSS 为：http://zhihurss.miantiao.me/section/id/7  
+“硬科技”的 RSS 为：http://zhihurss.miantiao.me/section/id/8  
+“最美应用”的 RSS 为：http://zhihurss.miantiao.me/section/id/9  
+“鲜柚游戏周报”的 RSS 为：http://zhihurss.miantiao.me/section/id/10  
+“豌豆荚设计奖”的 RSS 为：http://zhihurss.miantiao.me/section/id/11  
+“#一周一折腾#”的 RSS 为：http://zhihurss.miantiao.me/section/id/12  
+“麻省理工科技评论”的 RSS 为：http://zhihurss.miantiao.me/section/id/14  
+“#周末话题优秀评论精选#”的 RSS 为：http://zhihurss.miantiao.me/section/id/15  
+“整点儿新闻”的 RSS 为：http://zhihurss.miantiao.me/section/id/16  
+“饿了”的 RSS 为：http://zhihurss.miantiao.me/section/id/17  
+
+如果合集 RSS 不全，请留言。
