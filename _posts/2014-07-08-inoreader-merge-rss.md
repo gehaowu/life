@@ -17,6 +17,6 @@ tags:
 <!-- more -->
 使用方法很简单，把你需要合并的几个RSS放在同一个文件夹，然后开启这个文件夹的RSS访问就可以获得新的合并后的RSS地址，如果觉得这个地址看起来不舒服，可以使用FeedSky、FeedBurner等RSS烧制服务重新烧制一下。
 
-[![RSS](https://dn-mtimg.qbox.me/bmiddle/4eda25f5tw1ei55d2baxtj20ky03cmxn.jpg)](https://dn-mtimg.qbox.me/large/4eda25f5tw1ei55d2baxtj20ky03cmxn.jpg)
+[![RSS](https://dn-mtimg.qbox.me/large/4eda25f5tw1ei55d2baxtj20ky03cmxn.jpg)](https://dn-mtimg.qbox.me/large/4eda25f5tw1ei55d2baxtj20ky03cmxn.jpg)
 
 **给个 [预览地址](http://feed.inbiji.com) **。 

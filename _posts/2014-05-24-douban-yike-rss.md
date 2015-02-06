@@ -13,12 +13,12 @@ tags:
 - 一刻
 - RSS
 ---
-豆瓣昨天发布了一款类似“知乎日报”的APP——“[一刻](http://www.miantiao.me/url/1t5LkuV)”，不过内容很小清新，适合妹子读。
+豆瓣昨天发布了一款类似“知乎日报”的APP——“[一刻](http://tool.miantiao.me/url/1t5LkuV)”，不过内容很小清新，适合妹子读。
 
 <!-- more -->
 虽然我不怎么上豆瓣，但是为了与妹子能有“共同语言”，这些文艺的东西还是要读一些的。所以偶尔也得上上豆瓣，说不定上着上着就上了。
 
-无奈手机配置太渣，多装一些APP实在卡的不行，所以一些阅读性的东西我都是订阅到Feedly，然后用[Press](http://www.miantiao.me/url/1micwFY)离线阅读。不过现在新出的一些网站都没有RSS了，只能自己动手写，于是早上就写了这个RSS源，给自己订阅，顺便分享给大家。
+无奈手机配置太渣，多装一些APP实在卡的不行，所以一些阅读性的东西我都是订阅到Feedly，然后用[Press](http://tool.miantiao.me/url/1micwFY)离线阅读。不过现在新出的一些网站都没有RSS了，只能自己动手写，于是早上就写了这个RSS源，给自己订阅，顺便分享给大家。
 > http://yikerss.miantiao.me/rss
 
 下面的是各个栏目的 RSS :  

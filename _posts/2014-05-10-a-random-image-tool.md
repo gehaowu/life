@@ -16,7 +16,7 @@ tags:
 
 <!-- more -->
 其实这个程序主要是需要一个好的图片源，我现在找到图片源还算可以，速度也很快（图片在[七牛]()，肯定快）。目前支持"people","car","digital","fashion","food","pet","toy","city"八个分类，如果不在意分类的话，可以使用"Any"分类。大小可以使用"300x200"这个格式，也可以只限制宽度，设置"300",就可以了。更多尺寸参数和七牛一样的，见下图：  
-[![图片尺寸](https://dn-mtimg.qbox.me/large/005ygACVjw1eg9dh5hm83j30e00lb41c.jpg)](http://www.miantiao.me/url/1j60QH4)
+[![图片尺寸](https://dn-mtimg.qbox.me/large/005ygACVjw1eg9dh5hm83j30e00lb41c.jpg)](http://tool.miantiao.me/url/1j60QH4)
 
 地址格式：http://randomimg.jd-app.com/分类/尺寸
 
@@ -40,6 +40,6 @@ tags:
 城市： http://randomimg.jd-app.com/city/500
 ![城市](http://randomimg.jd-app.com/city/500) 
 
-还有功能，比如旋转，剪裁，高斯模糊，格式转换。需要的同学可以去看[七牛的文档](http://www.miantiao.me/url/1fWAF58)。  
+还有功能，比如旋转，剪裁，高斯模糊，格式转换。需要的同学可以去看[七牛的文档](http://tool.miantiao.me/url/1fWAF58)。  
 这是一个旋转了45度加了高斯模糊格式为webp的图片。
 ![高级](http://randomimg.jd-app.com/digital/500/blur/3x5/rotate/45/format/webp)

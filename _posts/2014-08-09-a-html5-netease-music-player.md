@@ -27,7 +27,7 @@ tags:
 
 ###WordPress使用方法：  
 直接在functions.php插入下面的代码：  
-<iframe width="100%" height="200" src="http://www.miantiao.me/gist/ccbikai/6b85829db7749cc196ab.pibb" frameborder=0 ></iframe>
+<iframe width="100%" height="200" src="http://tool.miantiao.me/gist/ccbikai/6b85829db7749cc196ab.pibb" frameborder=0 ></iframe>
 
 然后单独在把虾米音乐地址写在一行就行了。
 

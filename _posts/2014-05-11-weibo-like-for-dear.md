@@ -12,12 +12,12 @@ tags:
 - 微博
 - 代码
 ---
-前两天发现了[新浪微博点赞](http://www.miantiao.me/url/1safNHI)的接口，于是就写了这个脚本。
+前两天发现了[新浪微博点赞](http://tool.miantiao.me/url/1safNHI)的接口，于是就写了这个脚本。
 
 <!-- more -->
 需要的马上去部署，暂时没有女神的，先Star一下，然后去找女神。
 
-全自动点赞版本：[https://github.com/ccbikai/likefordear/releases/tag/v0.1](http://www.miantiao.me/url/1nF0iaM)
+全自动点赞版本：[https://github.com/ccbikai/likefordear/releases/tag/v0.1](http://tool.miantiao.me/url/1nF0iaM)
 <iframe src="http://lab.lepture.com/github-cards/cards/medium.html?user=ccbikai&repo=likefordear" frameborder="0" scrolling="0" width="400" height="300" allowtransparency></iframe>
 
 这是一个自动给女神微博点赞的脚本，三分钟检查一次女神微博更新，如果有新微博，就立马点赞。(全自动版)  
