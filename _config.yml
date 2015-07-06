@@ -16,6 +16,9 @@ url : http://mt.hexoer.tk
 social: 
   github: https://github.com/ghw
 
+analytics: 
+  baidu: 2f0f4b0d867163a00886350ad2c21f8c
+
 # 作者信息
 author :
   name : Haowu Ge
