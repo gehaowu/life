@@ -1,4 +1,4 @@
-permalink: /:year/:month/:title/
+permalink: /:title.html
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 pygments: true
 markdown: rdiscount
