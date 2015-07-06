@@ -26,7 +26,7 @@
 	<link rel="stylesheet" href="{{ ASSET_PATH }}/css/kimochi.css" media="all"/>
 	<link rel="stylesheet" href="{{ ASSET_PATH }}/css/style.css" media="all"/>
 	<link rel="shortcut icon" href="/favicon.ico" />
-	<link href="http://feed.miantiao.me" type="application/rss+xml" rel="alternate" title="LifeMemory RSS Feed" />
+	<link href="https://www.gehaowu.com{{ site.JB.BASE_PATH }}/atom.xml" type="application/rss+xml" rel="alternate" title="LifeMemory RSS Feed" />
 	<link href="{{ BASE_PATH }}{{ site.JB.atom_path }}" type="application/atom+xml" rel="alternate" title="LifeMemory ATOM Feed" />
 	<link rel="canonical" href="{% if page.is_index %}{{ site.url }}{% else %}{{ site.url }}{{ page.url }}{% endif %}" />
 	{% if page.date %}
@@ -89,8 +89,8 @@
 		{{ content }}
 		</div>
 		{% if page.is_index %}
-				<a class="scroll-pause" href="#" title="暂停加载">暂停加载</a>
-				<a class="scroll-resume" href="#" title="继续加载">继续加载</a>
+				<a class="scroll-pause" href="{{ site.JB.BASE_PATH }}/#" title="暂停加载">暂停加载</a>
+				<a class="scroll-resume" href="{{ site.JB.BASE_PATH }}/#" title="继续加载">继续加载</a>
 			<div id="more" class="align-center mt-2">
 				<a href="{{ site.JB.BASE_PATH }}/page{{ paginator.next_page }}/" class="loadmore button button-orange w-30p pjax" title="分页查看 | {{ site.title }}">查看更多</a>
 			</div>
@@ -98,7 +98,7 @@
 	</div>
 	<div id="foot" class="w-100p font-white h-5 pt-2 bg-orange">
 		<div id="about" class="align-center">&copy; 2011-2015 {{ site.title }} ,Powered By Jekyll ,Design By <a href="https://plus.google.com/113613029248221235605?rel=author">cc bikai</a> .
-		<a id="rocket" href="#top" title="返回顶部"><i></i></a>
+		<a id="rocket" href="{{ site.JB.BASE_PATH }}/#top" title="返回顶部"><i></i></a>
 		</div>
 		<div class="instagram"><div class="ins-loading"><div class="bar"><div class="qiu"></div><p>Loading</p></div></div></div>
 		<a id="ins" href="#"><i class="icon-instagram"></i></a>
@@ -112,7 +112,7 @@
 				<li><a href="/albums/" title="我的相册" >相册</a></li>
 			</ul>
 			</div>
-			<a href="#" id="gc_close" rel="nofollow">X</a>
+			<a href="{{ site.JB.BASE_PATH }}/#" id="gc_close" rel="nofollow">X</a>
 		</div>
 		{% endif %}
 	</div>
