@@ -1,8 +1,17 @@
+---
+author: Haowu Ge
+comments: true
+date: 2015-07-01  22:02:52 +0800
+layout: post
+slug: nexus-7-two
 title: 通过 Reaver 测试 WPS 安全性
-date: 2015-07-01 20:14:17
-tags: [信息技术,开源,Reaver,WPS,安全]
-categories: 信息技术
-toc: true
+postid: 1601
+categories:
+- 扯淡文章
+tags:
+- 败家
+- 平板
+- 看书
 ---
 
 ```sh
