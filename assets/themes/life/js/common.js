@@ -136,7 +136,7 @@ c();S();var O=[];for(var L=0;L<C.length;L++){var A=C[L];if(v(A)){O.push(A)}}})()
 NProgress.start();
 
 var duoshuoQuery = {
-    short_name: "hibikai"
+    short_name: "gehaowu"
 };
 
 function duoshuo(postid, posturl,posttitle) {

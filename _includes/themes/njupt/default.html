@@ -36,14 +36,14 @@
         <link href="{{ BASE_PATH }}{{ site.JB.atom_path }}" type="application/atom+xml" rel="alternate" title="LifeMemory ATOM Feed" />
         <link rel="canonical" href="{% if page.is_index %}{{ site.production_url }}{% else %}{{ site.production_url }}{{ page.url }}{% endif %}" />
         <script type="text/javascript" src="{{ ASSET_PATH }}/js/jquery.min.js"></script>
-        <script>
-         var _hmt = _hmt || [];
-         (function() {
-         var hm = document.createElement("script");
-         hm.src = "//hm.baidu.com/hm.js?320f3d3971195004b4dd69c45a0979c8";
-         var s = document.getElementsByTagName("script")[0]; 
-         s.parentNode.insertBefore(hm, s);
-         })();
+		<script>
+		var _hmt = _hmt || [];
+		(function() {
+			var hm = document.createElement("script");
+			hm.src = "//hm.baidu.com/hm.js?{{ site.analytics.baidu }}";
+			var s = document.getElementsByTagName("script")[0];
+		s.parentNode.insertBefore(hm, s);
+		})();
 		</script>
     </head>
 <body>
@@ -147,17 +147,19 @@
 	bgimg.sort(function(){return Math.random()>0.5?-1:1;});
 </script>
 
+<!-- 多说公共JS代码 start (一个网页只需插入一次) -->
 <script type="text/javascript">
-var duoshuoQuery = {short_name:"hibikai"};
+var duoshuoQuery = {short_name:"{{ site.common.duoshuo }}"};
 	(function() {
 		var ds = document.createElement('script');
 		ds.type = 'text/javascript';ds.async = true;
-		ds.src = 'http://static.duoshuo.com/embed.js';
+		ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
 		ds.charset = 'UTF-8';
 		(document.getElementsByTagName('head')[0] 
-		|| document.getElementsByTagName('body')[0]).appendChild(ds);
+		 || document.getElementsByTagName('body')[0]).appendChild(ds);
 	})();
-</script>
+	</script>
+<!-- 多说公共JS代码 end -->
 <script type="text/javascript" src="http://tajs.qq.com/stats?sId=22950348" charset="UTF-8"></script>
 <script src="http://tjs.sjs.sinajs.cn/open/api/js/wb.js?appkey=757112173" type="text/javascript" charset="utf-8"></script>
 <script src="http://cdn.staticfile.org/jqueryui/1.10.2/jquery-ui.min.js"></script>

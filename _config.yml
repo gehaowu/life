@@ -27,6 +27,9 @@ social:
 analytics: 
   baidu: 2f0f4b0d867163a00886350ad2c21f8c
 
+common: 
+  duoshuo: gehaowu
+
 # 作者信息
 author :
   name : Haowu Ge
