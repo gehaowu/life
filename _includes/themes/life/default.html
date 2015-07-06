@@ -69,15 +69,15 @@
 			<div class="menu cleared">
 			<a title="{{ site.title }} | {{ site.description }}" class="nav-item pjax" href="/"><i class="icon-home"></i>首页</a>
 				<div class="nav-has-menu">
-					<a title="归档 | {{ site.title }}" class="nav-item pjax" href="/archives.html"><i class="icon-archive"></i>归档</a>
+					<a title="归档 | {{ site.title }}" class="nav-item pjax" href="{{ site.JB.BASE_PATH }}/archives.html"><i class="icon-archive"></i>归档</a>
 						<div class="nav-menu">
 							{% for node in site.categories %}
-							<a title="{{ node[0] }}" class="nav-menu-item" href="/archives.html#{{ node[0] }}"><i class="icon-cat"></i>{{ node[0] }}</a>
+							<a title="{{ node[0] }}" class="nav-menu-item" href="{{ site.JB.BASE_PATH }}/archives.html#{{ node[0] }}"><i class="icon-cat"></i>{{ node[0] }}</a>
 							{% endfor %}
 						</div>
 				</div>
-			<a title="邻居 | {{ site.title }}" class="nav-item pjax" href="/links.html"><i class="icon-link"></i>邻居</a>
-			<a title="留言 | {{ site.title }}" class="nav-item pjax" href="/guestbook.html"><i class="icon-category"></i>留言</a>
+			<a title="邻居 | {{ site.title }}" class="nav-item pjax" href="{{ site.JB.BASE_PATH }}/links.html"><i class="icon-link"></i>邻居</a>
+			<a title="留言 | {{ site.title }}" class="nav-item pjax" href="{{ site.JB.BASE_PATH }}/guestbook.html"><i class="icon-category"></i>留言</a>
 				<div class="search right h-1">
 					<form id="searchform">
 					<input type="text" id="st-search-input" value="" placeholder="敢不敢搜一下？" />
@@ -92,7 +92,7 @@
 				<a class="scroll-pause" href="#" title="暂停加载">暂停加载</a>
 				<a class="scroll-resume" href="#" title="继续加载">继续加载</a>
 			<div id="more" class="align-center mt-2">
-				<a href="/page{{ paginator.next_page }}/" class="loadmore button button-orange w-30p pjax" title="分页查看 | {{ site.title }}">查看更多</a>
+				<a href="{{ site.JB.BASE_PATH }}/page{{ paginator.next_page }}/" class="loadmore button button-orange w-30p pjax" title="分页查看 | {{ site.title }}">查看更多</a>
 			</div>
 		{% endif %}
 	</div>
