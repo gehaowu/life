@@ -15,6 +15,14 @@ url : http://mt.hexoer.tk
 # 社交网络
 social: 
   github: https://github.com/ghw
+  twitter: https://twitter.com/ghw
+  weixin: #
+  tqq: http://t.qq.com/#
+  weibo: http://weibo.com/#
+  instagram: https://instagram.com/#
+  zhihu: http://www.zhihu.com/people/
+  v2ex: https://www.v2ex.com/member/
+  rss: /atom.xml
 
 analytics: 
   baidu: 2f0f4b0d867163a00886350ad2c21f8c
