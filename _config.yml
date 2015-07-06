@@ -10,7 +10,7 @@ timezone: Asia/Shanghai
 title : Life Memory
 keywords: "生活,记忆,生活记忆,Life,Memory,Life Memory,不给力的面条,面条,人生就像那旅程,谁知道转弯后的风光"
 description : "人生就像那旅程,谁知道转弯后的风光"
-url : http://mt.hexoer.tk
+url : https://www.gehaowu.com/life
 
 # 社交网络
 social: 
@@ -39,7 +39,7 @@ author :
 
 
 JB :
-  BASE_PATH : false
+  BASE_PATH : /life
   ASSET_PATH : false
   archive_path: /archives.html
   about_path: /about.html
