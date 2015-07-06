@@ -294,7 +294,7 @@ function baidupjax(){
 	$('.hm-t-img').addClass('pjax');
 }
 
-var bgimg = ["http://ww1.sinaimg.cn/large/4eda25f5gw1ea6i91dvflj20xc0go0ut.jpg", "http://ww1.sinaimg.cn/large/4eda25f5gw1ea6iavxy8sj20xc0godiz.jpg", "http://ww1.sinaimg.cn/large/4eda25f5gw1ea6ib80pfoj20xc0goq7h.jpg"];
+var bgimg = ["//dn-nimages.qbox.me/other/4eda25f5gw1ea6i91dvflj20xc0go0ut.jpg", "//dn-nimages.qbox.me/other/4eda25f5gw1ea6iavxy8sj20xc0godiz.jpg", "//dn-nimages.qbox.me/other/4eda25f5gw1ea6ib80pfoj20xc0goq7h.jpg"];
 
 bgimg.sort(function() {
     return Math.random() > .5 ? -1 : 1;
@@ -376,12 +376,12 @@ $(document).ready(function() {
                 type: "GET",
                 dataType: "jsonp",
                 cache: true,
-                url: "http://www.miantiao.me/instagramjson/iakibcc",
+                url: "//www.gehaowu.com/instagramjson/haowuge",
                 success: function(data) {
                     for (var i = 0; i < 10; i++) {
                         $(".instagram").append("<a target='_blank' class='fancybox' rel='instagram' href='" + data.items[i].images.standard_resolution.url.replace(/scontent-\w.cdninstagram.com/, 'dn-miantiao.qbox.me') + "' title='" + data.items[i].caption.text + " " + data.items[i].link + "'><img class='instagram-image' src='" + data.items[i].images.thumbnail.url.replace(/scontent-\w.cdninstagram.com/, 'dn-miantiao.qbox.me') + "' /></a>");
                     }
-                    $(".instagram").append("<a id=\"ins-close\" href=\"#\"><i class=\"icon-cancel\"></i></a><a target=\"_blank\" id=\"ins-herf\" href=\"http://instagram.com/iakibcc\"><i class=\"icon-instagram\"></i></a>");
+                    $(".instagram").append("<a id=\"ins-close\" href=\"#\"><i class=\"icon-cancel\"></i></a><a target=\"_blank\" id=\"ins-herf\" href=\"//instagram.com/haowuge\"><i class=\"icon-instagram\"></i></a>");
                     $(".ins-loading").hide();
                     $("#ins-close").click(function() {
                         $(".instagram").fadeOut();
@@ -413,7 +413,7 @@ $(document).ready(function() {
         hookDUOSHUO_tp();
     };
     $(".friends_list a").each(function(e) {
-        $(this).prepend("<img src=http://www.miantiao.me/favicon?domain=" + this.href.replace(/^(http:\/\/[^\/]+).*$/, "$1").replace("http://", "") + " style='margin:0 2px 0;width:12px;height:12px;'>");
+        $(this).prepend("<img src=//www.gehaowu.com/favicon?domain=" + this.href.replace(/^(http:\/\/[^\/]+).*$/, "$1").replace("http://", "") + " style='margin:0 2px 0;width:12px;height:12px;'>");
     });
     if (history && history.pushState) {
         Ajaxopt();
