@@ -1,9 +1,17 @@
+---
+author: Haowu Ge
+comments: true
+date: 2015-06-02  22:02:52 +0800
+layout: post
+slug: nexus-7-two
 title: 贷款利率与投资收益
-date: 2015-06-02 11:02:11
-tags: [ 财务会计,投资,利率,贷款,收益]
-categories:  财务会计
-toc: true
-mathjax: true
+postid: 1605
+categories:
+- 扯淡文章
+tags:
+- 败家
+- 平板
+- 看书
 ---
 
 ####烂尾了。。。没动力写了。。。。。。。。。。####
