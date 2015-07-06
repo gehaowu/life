@@ -1,7 +1,17 @@
+---
+author: Haowu Ge
+comments: true
+date: 2015-05-01  22:02:52 +0800
+layout: post
+slug: nexus-7-two
 title: Hello World！ ， 你好，世界！
-date: 2015-05-01 00:00:00
-tags: [其它]
-toc: true
+postid: 1601
+categories:
+- 扯淡文章
+tags:
+- 败家
+- 平板
+- 看书
 ---
 
 ### English version
