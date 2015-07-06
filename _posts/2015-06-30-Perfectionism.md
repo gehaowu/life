@@ -1,10 +1,18 @@
-title: 【走进装逼学：】通过CSS字距调整空格
-date: 2015-06-30 21:49:53
-tags: [信息技术,CSS]
-categories: 信息技术
-toc: true
 ---
-
+author: Haowu Ge
+comments: true
+date: 2015-06-30  22:02:52 +0800
+layout: post
+slug: nexus-7-two
+title: 【走进装逼学：】通过CSS字距调整空格
+postid: 1603
+categories:
+- 扯淡文章
+tags:
+- 败家
+- 平板
+- 看书
+---
 
 抄来的主页，发现对方用了好多空格，
 
