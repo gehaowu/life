@@ -50,12 +50,12 @@
 					<a title="归档 | {{ site.title }}" class="nav-item pjax" href="{{ site.JB.BASE_PATH }}/archives.html"><i class="icon-archive"></i>归档</a>
 						<div class="nav-menu">
 							{% for node in site.categories %}
-							<a title="{{ node[0] }}" class="nav-menu-item" href="{{ site.JB.BASE_PATH }}/archives.html#{{ node[0] }}"><i class="icon-cat"></i>{{ node[0] }}</a>
+							<a title="{{ node[0] }}" class="nav-menu-item" href="{{ site.JB.BASE_PATH }}/archives/#{{ node[0] }}"><i class="icon-cat"></i>{{ node[0] }}</a>
 							{% endfor %}
 						</div>
 				</div>
-			<a title="邻居 | {{ site.title }}" class="nav-item pjax" href="{{ site.JB.BASE_PATH }}/links.html"><i class="icon-link"></i>邻居</a>
-			<a title="留言 | {{ site.title }}" class="nav-item pjax" href="{{ site.JB.BASE_PATH }}/guestbook.html"><i class="icon-category"></i>留言</a>
+			<a title="邻居 | {{ site.title }}" class="nav-item pjax" href="{{ site.JB.BASE_PATH }}/links/"><i class="icon-link"></i>邻居</a>
+			<a title="留言 | {{ site.title }}" class="nav-item pjax" href="{{ site.JB.BASE_PATH }}/guestbook/"><i class="icon-category"></i>留言</a>
 				<div class="search right h-1">
 					<form id="searchform">
 					<input type="text" id="st-search-input" value="" placeholder="敢不敢搜一下？" />

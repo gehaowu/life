@@ -231,7 +231,7 @@ function Ajaxopt() {
                     $(".scroll-resume,.scroll-pause").fadeOut();
                     baidupjax();
                 };
-                if (url.indexOf("guestbook.html") > 0) {
+                if (url.indexOf("guestbook/") > 0) {
                     var tl = document.createElement('ul');
     				tl.setAttribute('data-num-items', '99');
     				tl.setAttribute('data-avatar-size', '48');
