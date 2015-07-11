@@ -44,10 +44,10 @@ JB :
   ASSET_PATH : false
   archive_path: /archives.html
   about_path: /about.html
-  links_path: /links.html
+  links_path: /links/
   tags_path : /tags.html
   atom_path : /atom.xml
   rss_path : /rss.xml
   sitemap_path : /sitemap.xml
   search_path : /search.html
-  guestbook_path : /guestbook.html
+  guestbook_path : /guestbook/
