@@ -25,7 +25,7 @@ social:
   rss: /atom.xml
 
 analytics: 
-  baidu: false
+#  baidu: false
   google: UA-65013365-1
 
 common: 
